@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="female">Female</string>
+    <string name="joyify1" ></string>
+    <string name="profession">Profession</string>
+    <string name="unmarried">Unmarried</string>
+    <string name="submit">SUBMIT</string>
+    <string name="married">Married</string>
+    <string name="todo3" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="take_test">Take Test</string>
+    <string name="test2">TEST</string>
+    <string name="todo4">TODO</string>
+    <string name="question">This is 5 question test diagnosing, monitoring,and measuring the severity of diseases</string>
+    <string name="q1_little_interest_or_pleasure_in_doing_things">Q1. Little interest or pleasure in doing things</string>
+    <string name="not_at_all">Not at all</string>
+    <string name="several_days">Several days</string>
+    <string name="half_of_the_days">More than half of the days</string>
+    <string name="test">TEST</string>
+    <string name="nearly_every_day">Nearly every day</string>
+    <string name="todo">TODO</string>
+    <string name="joyify">JOYIFY</string>
+    <string name="select_any_test_above_to_assess_wheather_you_may_suffering_from_a_specific_issue">Select any test above to assess wheather you may suffering from a specific issue</string>
+    <string name="dipression">dIPERSION</string>
+    <string name="alcohol_addiction">Alchol Addiction</string>
+    <string name="anxiety">Anixeity</string>
+    <string name="bipolar_disorder">Bipolor disorder</string>
+    <string name="social">Social</string>
+    <string name="internet">INTERNET</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+</resources>
